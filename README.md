@@ -12,7 +12,7 @@ I am a **Senior Software Engineer** with over 5 years of experience architecting
   - **Infrastructure & Cloud:** AWS, Docker, Kubernetes, Kafka, CI/CD (TeamCity/Jenkins).
 
 - 🔭 **I’m currently working on:**
-  - **[Zaffrai](https://zaffrai.com):** Building an AI-powered image editing SaaS that lets users edit photos via natural language ("No editor needed... just your thoughts").
+  - **[![Zaffrai](https://img.shields.io/badge/Project-Zaffrai-blueviolet)](https://zaffrai.com):** Building an AI-powered image editing SaaS that lets users edit photos via natural language ("No editor needed... just your thoughts").
     - *Key Features:* Object removal, old photo restoration, and generative edits.
     - *Stack:* Python, Gemini API, React.
   - **Scalable Infrastructure:** Architecting Kafka-based microservices for asynchronous communication and heavy loads.
