@@ -11,6 +11,12 @@ I am a **Senior Software Engineer** with over 5 years of experience architecting
   - **Languages:** Java, Kotlin, Python, TypeScript, JavaScript, SQL, PHP.
   - **Infrastructure & Cloud:** AWS, Docker, Kubernetes, Kafka, CI/CD (TeamCity/Jenkins).
 
+- 🔭 **I’m currently working on:**
+  - **[Zaffrai](https://zaffrai.com):** Building an AI-powered image editing SaaS that lets users edit photos via natural language ("No editor needed... just your thoughts").
+    - *Key Features:* Object removal, old photo restoration, and generative edits.
+    - *Stack:* Python, Gemini API, React.
+  - **Scalable Infrastructure:** Architecting Kafka-based microservices for asynchronous communication and heavy loads.
+
 - 🌱 **I’m currently exploring:**
   - **Game Development:** Building 2D casual games for Android using code-first frameworks (Godot/Flame).
   - **Self-Hosting:** Setting up CI/CD pipelines for home server environments.
