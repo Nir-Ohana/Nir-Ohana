@@ -22,4 +22,4 @@ I am a **Senior Software Engineer** with over 5 years of experience architecting
 
 - 📫 **How to reach me:**
   - 📧 [niroh3005@gmail.com](mailto:niroh3005@gmail.com)
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/nir-ohana)
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/nir-ohana-2355a8229/)
